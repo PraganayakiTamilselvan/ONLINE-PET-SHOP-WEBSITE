@@ -1,1 +1,1 @@
-# ONLINE-PET-SHOP-WEBSITE
+Our Online Pet Shop Website is a user-friendly platform designed to meet the needs of pet lovers. It offers a wide range of pets and pet-related products, all available at the click of a button. Whether customers are looking to adopt a new furry friend or purchase food, toys, grooming supplies, or accessories, our website provides a convenient and seamless shopping experience.
